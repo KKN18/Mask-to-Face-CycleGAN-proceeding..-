@@ -1,4 +1,4 @@
-# Mask-to-Face-CycleGAN (진행중)
+# Mask-to-Face-CycleGAN (proceeding)
 
 ## Environment
 모든 작업이 Google Colab Notebooks에서 진행되었습니다.
