@@ -15,4 +15,10 @@
 
 훨씬 더 많은 데이터셋이 필요한 것으로 보이나 Google Colab Notebooks에서 사용할 수 있는 GPU에 한계가 있기 때문에
 
-추후 개인적으로 GPU를 사용할 수 있을 때까지 잠정 보류할 예정입니다.
+추후 가능한 GPU를 사용할 수 있을 때까지 잠정 보류할 예정입니다.
+
+## Reference
+[안면 마스크 합성 코드](https://ichi.pro/ko/opencv-dlibleul-sayonghan-anmyeon-maseukeu-obeolei-85300355583053)
+
+[CycleGAN](https://github.com/aitorzip/PyTorch-CycleGAN)
+
